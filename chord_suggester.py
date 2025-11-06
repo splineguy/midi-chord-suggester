@@ -1,3 +1,9 @@
+# Chord Progression MIDI Generator
+# Author: Zachary Franklin
+# Repository and documentation by Scott Franklin
+# License: MIT
+
+
 import random
 import mido
 import pygame.midi
