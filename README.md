@@ -104,4 +104,9 @@ Press `Ctrl+C` to stop listening and return to the menu. Type `exit` at the toni
 MIT (see `LICENSE`).
 
 ## Credits
-Built by Scott’s son, Zachary, 👏—documented for future you.
+## Credits
+
+**Author:** Zachary Franklin  
+**Project Documentation & Repository Setup:** Scott Franklin  
+**License:** MIT (see [LICENSE](LICENSE))
+
